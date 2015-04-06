@@ -28,7 +28,10 @@ Installation:
 4: Select the 'Themes' sub-menu from 'Appearance' menu
 5: Select the 'Mooph' theme from the available list of themes to preview
 6: Activate the theme.
-	
+
+OR
+
+Watch this video: https://youtu.be/4-65ohSj55c	
 	
 Please help me, I'm stuck!
 ------------------------------------
