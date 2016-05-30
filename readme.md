@@ -1,6 +1,6 @@
 Mooph
 ====================================
-This is a Mooph Free WordPress theme.
+A Free WordPress theme.
 
 
  Theme Copyright:   
